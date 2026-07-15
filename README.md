@@ -21,7 +21,7 @@
 
 ## 👋 Who I Am
 
-```ts
+
 const prabhatYadav = {
   title: "Front-End Focused Full-Stack Software Engineer",
   location: "Lucknow, Uttar Pradesh, India",
@@ -54,7 +54,7 @@ const prabhatYadav = {
 
   openTo: ["Front-End Engineer roles", "Full-Stack Engineer roles", "Internships & collaborations"],
 };
-```
+
 
 ## 🚀 Featured Projects
 
