@@ -10,10 +10,21 @@
 
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-7DD3FC?style=for-the-badge&labelColor=0d1117" />
 
-<br/><br/>
+
+<div align="center">
+
+
+</div>
+
 
 <img src="https://komarev.com/ghpvc/?username=PrabhatYadav9&style=for-the-badge&color=7DD3FC&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/PrabhatYadav9?label=FOLLOWERS&style=for-the-badge&color=7DD3FC" />
+
+<p>
+  <a href="mailto:prabhaty701@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/prabhat-yadav-ba65a12a1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/PrabhatYadav9"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 </div>
 
@@ -46,11 +57,10 @@ I'm a **Front-End Focused Full-Stack Software Engineer** passionate about buildi
 ## Software Engineer Intern — Nityora Labs
 **Apr 2026 – Present**
 
-- Built reusable React components
-- Integrated REST APIs
-- Improved UI responsiveness
-- Collaborated using Git/GitHub
-- Worked with modern frontend workflows
+- Built reusable React components for faster delivery
+- Integrated REST APIs and improved frontend data flow
+- Enhanced UI responsiveness across core modules
+- Collaborated in Git/GitHub development workflows
 
 ---
 
