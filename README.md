@@ -60,7 +60,7 @@ Full-stack project management app — teams create projects, assign tasks, and t
 | Auth | JWT, bcrypt, Role-Based Access Control |
 | Deployment | Vercel |
 
-**[🚀 Live Demo](https://team-task-manager-henna-gamma.vercel.app/)** • **[🔗 Code](https://github.com/PrabhatYadav9/team-task-manager)**
+**[🚀 Live Demo](https://team-task-manager-aynt-mu.vercel.app/)** • **[🔗 Code](https://github.com/PrabhatYadav9/team-task-manager)**
 
 ---
 
