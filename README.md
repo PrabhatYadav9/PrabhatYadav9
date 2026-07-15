@@ -21,40 +21,24 @@
 
 ## 👋 Who I Am
 
+👋 Who I Am
 
-const prabhatYadav = {
-  title: "Front-End Focused Full-Stack Software Engineer",
-  location: "Lucknow, Uttar Pradesh, India",
-  education: "B.Tech, Computer Science — BBD University (2022–2026), CGPA: 8.68",
+Front-End Focused Full-Stack Software Engineer based in Lucknow, Uttar Pradesh, India.
 
-  stack: {
-    languages: ["JavaScript (ES6+)", "Python", "C", "C++"],
-    frontend: ["React.js", "Next.js", "Tailwind CSS", "HTML5", "CSS3"],
-    backend: ["Node.js", "Express.js", "REST APIs", "JWT Auth"],
-    databases: ["MongoDB"],
-    cloud: ["Google Cloud Platform", "Firebase", "Vercel"],
-    dataScience: ["NumPy", "Pandas", "Scikit-learn", "Matplotlib"],
-  },
 
-  currentRole: "Software Engineer Intern @ Nityora Labs (Apr 2026–Present)",
+🎓 Education: B.Tech, Computer Science — BBD University (2022–2026), CGPA: 8.68
+💼 Current Role: Software Engineer Intern @ Nityora Labs (Apr 2026–Present)
+🧰 Stack: JavaScript (ES6+), Python, C, C++ · React.js, Next.js, Tailwind CSS, HTML5, CSS3 · Node.js, Express.js, REST APIs, JWT Auth · MongoDB · Google Cloud Platform, Firebase, Vercel · NumPy, Pandas, Scikit-learn, Matplotlib
+🚀 Shipped:
 
-  launchedProjects: [
-    "Team Task Manager — full-stack project management app, deployed on Vercel",
-    "SONAR-Based Object Classification — 85.5% train / 71.4% test accuracy",
-  ],
+Team Task Manager — full-stack project management app, deployed on Vercel
+SONAR-Based Object Classification — 85.5% train / 71.4% test accuracy
 
-  certifications: [
-    "TCS iON Career Edge — Young Professional Program",
-    "Tata Group Virtual Experience — GenAI-Powered Data Analytics & Cybersecurity Analyst (Forage)",
-  ],
 
-  achievements: ["🏆 1st Rank — Future Tech, Utkarsh'25 Annual Fest, BBD University"],
 
-  status: "Building and shipping full-stack products, one component at a time",
-
-  openTo: ["Front-End Engineer roles", "Full-Stack Engineer roles", "Internships & collaborations"],
-};
-
+📜 Certifications: TCS iON Career Edge – Young Professional Program · Tata Group Virtual Experience – GenAI-Powered Data Analytics & Cybersecurity Analyst (Forage)
+🏆 Achievements: 1st Rank – Future Tech, Utkarsh'25 Annual Fest, BBD University
+🎯 Open to: Front-End Engineer roles · Full-Stack Engineer roles · Internships & collaborations
 
 ## 🚀 Featured Projects
 
@@ -62,7 +46,7 @@ const prabhatYadav = {
 
 <div align="left">
   <a href="https://github.com/PrabhatYadav9/team-task-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrabhatYadav9&repo=team-task-manager&theme=nord&hide_border=true&title_color=7DD3FC&icon_color=7DD3FC&text_color=c9d1d9&bg_color=0D1117" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrabhatYadav9&repo=team-task-manager&theme=nord&hide_border=true&title_color=7DD3FC&icon_color=7DD3FC&text_color=c9d1d9&bg_color=0D1117&v=20260716" />
   </a>
 </div>
 
@@ -84,7 +68,7 @@ Full-stack project management app — teams create projects, assign tasks, and t
 
 <div align="left">
   <a href="https://github.com/PrabhatYadav9/colab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrabhatYadav9&repo=colab&theme=nord&hide_border=true&title_color=7DD3FC&icon_color=7DD3FC&text_color=c9d1d9&bg_color=0D1117" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrabhatYadav9&repo=colab&theme=nord&hide_border=true&title_color=7DD3FC&icon_color=7DD3FC&text_color=c9d1d9&bg_color=0D1117&v=20260716" />
   </a>
 </div>
 
@@ -124,8 +108,8 @@ Binary classification model distinguishing underwater rocks from mines using son
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrabhatYadav9&show_icons=true&theme=nord&hide_border=true&title_color=7DD3FC&icon_color=7DD3FC&text_color=c9d1d9&bg_color=0D1117" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhatYadav9&layout=compact&theme=nord&hide_border=true&title_color=7DD3FC&text_color=c9d1d9&bg_color=0D1117" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PrabhatYadav9&show_icons=true&theme=nord&hide_border=true&title_color=7DD3FC&icon_color=7DD3FC&text_color=c9d1d9&bg_color=0D1117&v=20260716" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhatYadav9&layout=compact&theme=nord&hide_border=true&title_color=7DD3FC&text_color=c9d1d9&bg_color=0D1117&v=20260716" width="38%" />
 </div>
 
 <div align="center">
@@ -133,7 +117,7 @@ Binary classification model distinguishing underwater rocks from mines using son
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PrabhatYadav9&theme=nord&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PrabhatYadav9&theme=nord&no-frame=true&no-bg=true&row=1&column=6&v=20260716" />
 </div>
 
 <div align="center">
