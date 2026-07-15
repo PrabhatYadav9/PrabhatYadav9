@@ -21,24 +21,38 @@
 
 ## 👋 Who I Am
 
-👋 Who I Am
+I'm a **Front-End Focused Full-Stack Software Engineer** passionate about building modern, scalable and user-friendly web applications.
 
-Front-End Focused Full-Stack Software Engineer based in Lucknow, Uttar Pradesh, India.
+- 🎓 B.Tech (Computer Science), BBD University (2022–2026)
+- 📈 CGPA: **8.68**
+- 💼 Software Engineer Intern @ **Nityora Labs**
+- 🌱 Learning advanced React, Next.js and GCP
+- 🎯 Open to Front-End & Full-Stack opportunities
 
+---
 
-🎓 Education: B.Tech, Computer Science — BBD University (2022–2026), CGPA: 8.68
-💼 Current Role: Software Engineer Intern @ Nityora Labs (Apr 2026–Present)
-🧰 Stack: JavaScript (ES6+), Python, C, C++ · React.js, Next.js, Tailwind CSS, HTML5, CSS3 · Node.js, Express.js, REST APIs, JWT Auth · MongoDB · Google Cloud Platform, Firebase, Vercel · NumPy, Pandas, Scikit-learn, Matplotlib
-🚀 Shipped:
+# 🌱 Current Focus
 
-Team Task Manager — full-stack project management app, deployed on Vercel
-SONAR-Based Object Classification — 85.5% train / 71.4% test accuracy
+- Building production-ready applications
+- Improving React performance
+- Learning scalable backend architecture
+- Writing cleaner, reusable code
+- Exploring cloud deployment
 
+---
 
+# 💼 Experience
 
-📜 Certifications: TCS iON Career Edge – Young Professional Program · Tata Group Virtual Experience – GenAI-Powered Data Analytics & Cybersecurity Analyst (Forage)
-🏆 Achievements: 1st Rank – Future Tech, Utkarsh'25 Annual Fest, BBD University
-🎯 Open to: Front-End Engineer roles · Full-Stack Engineer roles · Internships & collaborations
+## Software Engineer Intern — Nityora Labs
+**Apr 2026 – Present**
+
+- Built reusable React components
+- Integrated REST APIs
+- Improved UI responsiveness
+- Collaborated using Git/GitHub
+- Worked with modern frontend workflows
+
+---
 
 ## 🚀 Featured Projects
 
@@ -104,6 +118,15 @@ Binary classification model distinguishing underwater rocks from mines using son
 
 **Dev Tools**
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+---
+# 🏆 Achievements
+
+- 🥇 1st Rank – Future Tech (Utkarsh'25)
+- 🏅 TCS iON Career Edge Certification
+- 🏅 Tata Group GenAI Virtual Experience (Forage)
+
+---
 
 ## 📊 GitHub Stats
 
